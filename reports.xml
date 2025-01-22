@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+  <study>
+    <studyUID>1.2.840.113619.2.437.3.2831166082.704.1730512472.321</studyUID>
+    <studyDate format="dd/MM/yyyy">04/11/2024</studyDate>
+    <modalities>CT</modalities>
+    <patientID>CMA011895</patientID>
+    <patientName>WEISS HOOVER MINA GRACE</patientName>
+    <reportPath></reportPath>
+  </study>
+</studies>
